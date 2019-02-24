@@ -5,17 +5,17 @@
 
 
 ## 如何安装
-下载 BX-AE2CSS.jsx 文件，[`在这里右键 - 链接另存为`](https://raw.githubusercontent.com/bigxixi/ae2css/master/BX-AE2CSS.jsx).</br>
-打开AE, 点击 `文件`->`脚本`->`运行脚本文件...` 然后选择刚才下载的 `BX-AE2CSS.jsx`。    
+下载 BX-AE2CSS.jsx 文件，[`在这里右键 - 链接另存为`](https://raw.githubusercontent.com/bigxixi/ae2css/master/BX_AE2CSS.jsx).</br>
+打开AE, 点击 `文件`->`脚本`->`运行脚本文件...` 然后选择刚才下载的 `BX_AE2CSS.jsx`。    
 </br>
-或者可以复制 `BX-AE2CSS.jsx` 到AE的脚本文件夹:
+或者可以复制 `BX_AE2CSS.jsx` 到AE的脚本文件夹:
 >**Windows:**  
 >`C:\Program Files\Adobe\Adobe After Effects <版本>\Support Files\Script\`  
 >**Mac:**  
 >`/Applications/Adobe After Effects <版本>/Scripts/`
 
 </br>
-这样你就可以从 `文件`->`脚本` 中直接选择`BX-AE2CSS.jsx`了  
+这样你就可以从 `文件`->`脚本` 中直接选择`BX_AE2CSS.jsx`了  
 
 [详细步骤](https://helpx.adobe.com/cn/after-effects/using/scripts.html)</br>
 
