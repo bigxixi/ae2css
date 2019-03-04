@@ -1,5 +1,6 @@
 # BX-AE2CSS
 将 AE 制作的动画导出为 CSS 代码。  
+[Readme in English](https://github.com/bigxixi/ae2css/blob/master/README_en.md)
 
 [<img src="https://raw.githubusercontent.com/bigxixi/ReadMe-Resources/master/ae2css/ui.png" width="50%" height="30%">](http://bigxixi.com/donate/index.html)
 
@@ -52,8 +53,7 @@ https://www.bilibili.com/video/av44621898/
 
 **最大宽度** - 拼合后的精灵图文件最大宽度，超过这个值将会换行。注意拼好的图最大只能到 30000x30000 像素，若超过这个值将导出失败。  
 **跳过多少帧** - 减少精灵图尺寸，跳过帧越多动画越卡顿。  
-**完整长度/根据工作区裁剪** - 决定动画是正着播放还是反向。  
-**动画填充模式** - 如果精灵图动画与合成工作区时长不一致，「完整长度」模式将会保持精灵图动画的时长，「根据工作区裁剪」则将精灵图动画的时间范围限制在合成工作区内。  
+**完整长度/根据工作区裁剪** - 如果精灵图动画与合成工作区时长不一致，「完整长度」模式将会保持精灵图动画的时长，「根据工作区裁剪」则将精灵图动画的时间范围限制在合成工作区内。  
 
 ## 参考案例  
 ![demo1](https://raw.githubusercontent.com/bigxixi/ReadMe-Resources/master/ae2css/basicdemo.gif)  
